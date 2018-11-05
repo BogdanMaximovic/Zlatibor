@@ -2,4 +2,4 @@ Zlatibor
 
 Renting apartments on Zlatibor.
 
-Contact me for more information.
+Live demo: https://bogdanmaximovic.github.io/Zlatibor/
